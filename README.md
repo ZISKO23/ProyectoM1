@@ -9,7 +9,7 @@
 - Reseña sin spoilers que proporciona información sobre la trama y las impresiones generales.
 - Enlaces externos a sitios de compra y a un video de reseña en YouTube.
 
-## Uso
+## Proposito
 Este proyecto es ideal para los entusiastas de la literatura y la ciencia ficción que desean obtener información sobre el libro "Proyecto Hail Mary" de manera rápida y accesible. Navegue por la página para explorar las diferentes secciones y obtener más detalles.
 
 
